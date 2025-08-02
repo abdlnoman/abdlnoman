@@ -43,7 +43,6 @@
 
 <br/>
 <div align="center">
-    
     <img src="https://github.com/abdlnoman/abdlnoman/blob/output/github-snake.svg"/>
 </div>
 
