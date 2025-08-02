@@ -43,6 +43,7 @@
 
 <br/>
 <div align="center">
-    ![snake gif](https://github.com/abdlnoman/abdlnoman/blob/output/github-snake.svg)
+    
+    <img src="https://github.com/abdlnoman/abdlnoman/blob/output/github-snake.svg"/>
 </div>
 
